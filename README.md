@@ -1,7 +1,7 @@
-# 👋 Sorry, nothing to see here (for now)
+# 🙂 Sorry, nothing to see here (at least for now)
 
 
-I'm not a programmer, so you won’t find complex repositories here — but I *do* live and breathe tech every day. My work focuses more on **keeping systems running smoothly**, **networks connected**, and **people supported**.
+I'm not a programmer, so you won’t find complex repositories here — but I **do** live and breathe tech every day. My work focuses more on **keeping systems running smoothly**, **networks connected**, and **people supported**.
 
 ---
 
@@ -30,9 +30,9 @@ Outside of work, I’m a curious tinkerer — always excited to explore new hard
 
 ---
 
-## 📫 Let’s Connect
+## 🤙 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b) [![Email](https://img.shields.io/badge/Email-Click%20to%20Send-red?logo=gmail)](mailto:suryadaffa30@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ff69b4?logo=firefox-browser)](https://dffsm.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b) [![Email](https://img.shields.io/badge/Email-Click%20to%20Send-red?logo=gmail)](mailto:suryadaffa30@gmail.com)
 ---
 
-> *“Behind every smooth tech experience is someone quietly keeping it all running — that's where I come in.”*
+> *“Fixing issues by doing absolutely nothing is the peak of technical support.”*
