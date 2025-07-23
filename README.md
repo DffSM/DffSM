@@ -1,6 +1,5 @@
 # 👋 Sorry, nothing to see here (for now)
 
-Hi there! Thanks for stopping by.
 
 I'm not a programmer, so you won’t find complex repositories here — but I *do* live and breathe tech every day. My work focuses more on **keeping systems running smoothly**, **networks connected**, and **people supported**.
 
@@ -33,8 +32,8 @@ Outside of work, I’m a curious tinkerer — always excited to explore new hard
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- 📧 Email: your.email@example.com
+- [LinkedIn](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b)
+- 📧 Email: suryadaffa30@gmail.com
 
 ---
 
