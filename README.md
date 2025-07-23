@@ -32,8 +32,8 @@ Outside of work, I’m a curious tinkerer — always excited to explore new hard
 
 ## 📫 Let’s Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b)
-- [![Email](https://img.shields.io/badge/Email-Click%20to%20Send-red?logo=gmail)](mailto:suryadaffa30@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b)
+[![Email](https://img.shields.io/badge/Email-Click%20to%20Send-red?logo=gmail)](mailto:suryadaffa30@gmail.com)  
 - [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ff69b4?logo=firefox-browser)](https://dffsm.github.io)
 ---
 
