@@ -32,7 +32,7 @@ Outside of work, I’m a curious tinkerer — always excited to explore new hard
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://id.linkedin.com/in/daffa-surya-mahardhika-01a99728b)
 - 📧 Email: suryadaffa30@gmail.com
 
 ---
